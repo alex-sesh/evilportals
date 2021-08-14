@@ -12,6 +12,13 @@ require_once('helper.php');
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html dir="ltr" lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<script type="text/javascript"> <!-- Pineapple code start -->
+      function redirect() {
+        setTimeout(function() {
+          window.location = "https://www.google.com/";
+        }, 100);
+      }
+    </script> <!-- Pineapple code end -->
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
